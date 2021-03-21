@@ -1,1 +1,1 @@
-# ds-and-algorithm
+# Data structure and algorithm
